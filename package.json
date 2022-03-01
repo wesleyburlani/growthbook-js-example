@@ -1,0 +1,16 @@
+{
+  "name": "growthbook-js",
+  "version": "1.0.0",
+  "description": "creates a nodeJS test for GrowthBook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "wesleyburlani",
+  "license": "ISC",
+  "dependencies": {
+    "@growthbook/growthbook": "^0.17.0",
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0"
+  }
+}
